@@ -1,14 +1,14 @@
-![Profile Banner](https://your-image-url.com/banner.png)
-
-
 # Portfolio of Data sciences
 
 Welcome to my data science portfolio. This repository contains a collection of my projects, showcasing my skills in data analysis, machine learning and deep learning using Python.
 
 ## About me
 
-
 I am a data scientist. with experience in data collection, analysis, engineering and visualization. I have developed machine learning and deep learning models applied to real-world problems. Implementation of strategies based on insight..
+
+## Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luismmachados)
 
 ## My skills 
 
@@ -82,8 +82,7 @@ Each project has its own folder and contains a `README.md` with detailed instruc
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luismmachados)
-[![Email](https://img.shields.io/badge/Email-luismachado.mmachado%40gmail.com-red)](mailto:luismachado.mmachado@gmail.com)
+[![Email](https://img.shields.io/badge/Email-luismanuel.mmachado%40gmail.com-red)](mailto:luismanuel.mmachado@gmail.com)
 
 ---
 
