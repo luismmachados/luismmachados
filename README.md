@@ -1,23 +1,23 @@
-# Portfolio of Data sciences
+# Portfolio of Data sciences ⭐
 
 Welcome to my data science portfolio. This repository contains a collection of my projects, showcasing my skills in data analysis, machine learning and deep learning using Python.
 
-## About me
+## 💁About me:
 
 I am a data scientist. with experience in data collection, analysis, engineering and visualization. I have developed machine learning and deep learning models applied to real-world problems. Implementation of strategies based on insight..
 
-## Social
+## 🌐Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luismmachados)
 
-## My skills 
+## 💻My skills 
 
 
 ### 📊 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-### 🖥️ Data collection 
+### 💾 Data collection 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -56,7 +56,7 @@ I am a data scientist. with experience in data collection, analysis, engineering
 - **Technologies**: Python, pandas, numpy, scikit-learn, matplotlib, seaborn, Jupyter Notebooks
 
 
-## How to Run the Projects
+## ⏩How to Run the Projects
 
 Each project has its own folder and contains a `README.md` with detailed instructions on how to run the code. Below is a general example of how to clone the repository and install the necessary dependencies:
 
@@ -80,7 +80,7 @@ Each project has its own folder and contains a `README.md` with detailed instruc
     python scripts/analysis.py
     ```
 
-## Contact
+## 📧Contact
 
 [![Email](https://img.shields.io/badge/Email-luismanuel.mmachado%40gmail.com-red)](mailto:luismanuel.mmachado@gmail.com)
 
