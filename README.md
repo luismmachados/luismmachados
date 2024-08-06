@@ -55,6 +55,10 @@ I am a data scientist. with experience in data collection, analysis, engineering
 - **Description**: This project involves the development of two models: one for predicting the expected salary of job applicants based on their characteristics, and another for classifying whether an applicant is likely to be hired. The project includes data exploration, feature transformation, and model building for both regression and classification tasks.
 - **Technologies**: Python, pandas, numpy, scikit-learn, matplotlib, seaborn, Jupyter Notebooks
 
+### [Project 4: Analysis of Google Play Store Apps](https://github.com/luismmachados/Portfolio_project/tree/main/Projects/Project_04)
+- **Description**: The purpose of this project is to examine Google Play Store app data to extract useful insights that will enable developers to optimize their apps and increase their market share. The project includes data exploration, data visualization, text processing, feature transformation, and model building for both regression and classification tasks.
+- **Technologies**: Python, pandas, numpy, scikit-learn, matplotlib, seaborn, NLTK, TPOT, Jupyter Notebooks
+
 
 ## ⏩How to Run the Projects
 
